@@ -1,0 +1,39 @@
+body {
+    background-color: aqua;
+    color: black;
+    
+}
+
+nav {
+    background-color: lawngreen;
+    height: 30px;
+}
+
+nav li {
+    float: left;
+    list-style-type: none;
+    margin: 5px 15px 0 15px;
+    font-family: 'Bellefair', serif;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    color: orange;
+}
+
+.wrapper {
+    background-color: white;
+    width: 90%;
+    margin: 0 auto;
+}
+
+h1 {
+    background-color: lawngreen;
+    padding: 20px 10px 20px 10px;
+    font-family: 'Bellefair' , serif;
+}
+
+.famsan {
+    width: 100%;
+    overflow: hidden;
+}
