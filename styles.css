@@ -31,9 +31,28 @@ h1 {
     background-color: lawngreen;
     padding: 20px 10px 20px 10px;
     font-family: 'Bellefair' , serif;
+    text-transform: uppercase;
 }
 
 .famsan {
     width: 100%;
     overflow: hidden;
+}
+
+h1, h2, h3 {
+    color: slategrey
+}
+
+main{
+    width: 70%;
+}
+
+aside {
+    width: 30%;
+}
+
+footer {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
 }
