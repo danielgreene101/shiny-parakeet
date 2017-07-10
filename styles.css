@@ -34,7 +34,7 @@ h1 {
     text-transform: uppercase;
 }
 
-.famsan {
+.RickPic {
     width: 100%;
     overflow: hidden;
 }
@@ -58,4 +58,17 @@ footer {
     color: #fff;
     text-align: center;
     clear: both;
+}
+
+.flex-container{
+    display: flex;
+    display: -webkit-flex;
+    width: 100%;
+    background-color: seagreen;
+}
+
+.flex-item {
+    background-color: hotpink;
+    width: 30%;
+    margin: 10px;
 }
